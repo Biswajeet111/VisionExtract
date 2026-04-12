@@ -6,7 +6,7 @@ from PIL import Image
 import cv2
 import sys
 import time
-import download_model
+
 
 # Ensure src directory is in path for local imports
 sys.path.append(os.path.dirname(__file__))
